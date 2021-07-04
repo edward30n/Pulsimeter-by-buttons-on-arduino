@@ -27,3 +27,5 @@ Purpose:
       16) References
   
      b) codigo/pruebaFinal: This file has all the codes made to this proyect. you wiil find the code named as "Prueba final" witch will open the other libraries in the code. All of them were made by my group (See the report of the proyect)  and me.
+     
+   To see an small video of the proyect working check out this link: https://youtu.be/swlzEc2F4Fs
